@@ -1,4 +1,4 @@
-# CopyCraft AI
+# COPICRAFT AI
 
 Suite móvil de SEO y copywriting potenciada por IA.
 
