@@ -1,20 +1,19 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# CopyCraft AI
 
-# Run and deploy your AI Studio app
+Suite móvil de SEO y copywriting potenciada por IA.
 
-This contains everything you need to run your app locally.
+- Editor con análisis SEO en tiempo real
+- Reescritura de texto con múltiples tonos
+- Auditoría completa de contenido
+- PWA funcional desde cualquier dispositivo
 
-View your app in AI Studio: https://ai.studio/apps/bb334a08-3128-4667-b6e6-75f8a1737a9b
+## Características
 
-## Run Locally
+- 📁 Gestor de borradores local
+- ✍️ Editor con densidad de keywords
+- 🪄 Asistente IA para estructura y tono
+- 📊 Análisis SEO detallado
 
-**Prerequisites:**  Node.js
+## Deploy
 
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+Visita: https://copycraft.vercel.app
